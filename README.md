@@ -57,6 +57,14 @@ src/ui.tsx           componentes (cards, anel, barra, chips, ícones)
 src/screens/         Welcome, Home, Pedidos, Comunidades, Entrega, Perfil, Forms (Doar/Pedir)
 ```
 
+
+
+## Integrante
+ 
+Guilherme De Araujo – RM 561848 – Turma 2ESPI  
+Leonardo Da Silva Pinto – RM 564929 – Turma 2ESPI  
+Samuel Enzo Domingues Monteiro – RM 564391 – Turma 2ESPI
+
 ## Integrante
 
 Guilherme De Araujo – RM 561848 – Turma 2ESPI
